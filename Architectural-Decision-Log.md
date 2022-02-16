@@ -7,7 +7,7 @@
   
 **Database Language:** Undecided (SQL or NoSQL)  
 
-# Best Practice 
+# Style Guide 
 We have decided to Adopt the AirBnB style guide for this project  
   
 [AirBnB Style Guide](https://github.com/airbnb/javascript#:~:text=1%20Table%20of%20Contents.%20%202%20Types.%20Symbols,10%20Translation.%20%2011%20Contributors.%20%20More%20)
