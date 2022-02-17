@@ -72,7 +72,32 @@ The two programing languages are very similar and would both work well with what
 [TypeScript or JavaScript](https://www.stxnext.com/blog/typescript-pros-cons-javascript/)
 
 # MaterialUI  
+Material design is a set of style guidelines. Rule set to handle design situations. 
+### Pros
+-	Smooth UI transitions and animations between elements  can be used for movement on screen or highlighting buttons ect…
+-	Fast page switching, animations, fast screen scrolling and content updates
+-	Self contained UI components that are reusable and packed with API styles for your use.
+-	Responsive to different page sizes (for example if have a small screen size)
+-	Takes less time to make animations since elements are standardized within a webpage
+-	Customizable by colour, graphics, typography, ect… you can choose the correct fit for you
+-	Has a robust component library
+-	Has extensive icon library
+-	Good documentation in framework with examples
+-	Works with react
 
+### Cons
+-	Objects on page move when you do certain actions, for example scrolling down
+-	Requires a learning curve. 
+-	Easily identifiable with its increasing popularity
+-	Made by google, so primary for people who use google or android
+
+### Conclusion 
+Material UI is a easy and simple way to create and standardize components to be used later on in the code. 
+
+### Sources
+
+[Material Design Pros and Cons](https://www.bootstrapdash.com/why-choose-material-design-pros-cons/)  
+[why use material design](https://www.toptal.com/designers/ui/why-use-material-design)
 # Database Decision - MongoDB/Postgres
 
 # Database Language - SQL/NoSQL
