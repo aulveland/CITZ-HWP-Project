@@ -66,7 +66,10 @@ JavaScript and TypeScript are basically the same language with only a few slight
 Another issue is since TS is built off of JS, when you compile the code, you need to first compile it into JavaScript then run it where JS does not require compilation. This means that it takes a lot longer to run TS code. There are also more users of JS then there are TS so there is more tutorials and videos out there to use for reference of ask questions. 
 ### Conclusion
 The two programing languages are very similar and would both work well with what we are trying to accomplish. The solution we picked is JavaScript because it is so widely used and opensource platforms similar to the platform we want to create are built using JavaScript. This makes it easier to learn from other examples and implement them in our own code.
-
+### Sources
+[Advantages and Disadvantages of JavaScript](https://data-flair.training/blogs/advantages-disadvantages-javascript/)  
+[TypeScript Pros and Cons](https://www.altexsoft.com/blog/typescript-pros-and-cons/)  
+[TypeScript or JavaScript](https://www.stxnext.com/blog/typescript-pros-cons-javascript/)
 
 # MaterialUI  
 
