@@ -1,11 +1,11 @@
 # Architectural Decision Log
 **Database:** MongoDB  
   
-**Primary Code Language:** Undecided (JS or TS)  
+**Primary Code Language:** JavaScript 
   
 **UI Frameworks:** Material UI  
   
-**Database Language:** Undecided (SQL or NoSQL)  
+
 
 # Style Guide 
 We have decided to Adopt the AirBnB style guide for this project  
@@ -83,7 +83,7 @@ Material design is a set of style guidelines. Rule set to handle design situatio
 -	Has a robust component library
 -	Has extensive icon library
 -	Good documentation in framework with examples
--	Works with react
+-	Works well with react
 
 ### Cons
 -	Objects on page move when you do certain actions, for example scrolling down
@@ -98,15 +98,36 @@ Material UI is a easy and simple way to create and standardize components to be 
 
 [Material Design Pros and Cons](https://www.bootstrapdash.com/why-choose-material-design-pros-cons/)  
 [why use material design](https://www.toptal.com/designers/ui/why-use-material-design)
-# Database Decision - MongoDB/Postgres
+
+# Database Decision - MongoDB/PostgreSQL
 ### Background
-This report compares database providers, MongoDB or Postgres, and we will determine which will be a better fit for our project
+This report compares database providers, MongoDB or PostgreSQL, and we will determine which will be a better fit for our project
 ### MongoDB 
 #### Pros
-- has the potential for ACID (Not built in though)
+
+- Schema free NoSQL database with distributed architecture meaning its flexible
+- Can search by field, range query and regular expressions
+- Index any field in a document and supports the master/slave replication process
+- Can group similar data in the database due to its automatic load configuration
+- Stores files of any size without complicating the stack
+- Uses aggregation pipelines to process queries (framework for data aggregation (data is expressed in summary form))
+- Uses redundant replica sets (collection of MongoDB instances where each have primary and secondary node. (secondary node copies changes by primary node for recovery)) to maintain data allowing you to record or an as required basis. 
+- Uses indexes to connect tables together
+- Free but offers different pricing plans for use. 
+- Has the potential for ACID (Not built in though)
 - Document database and uses BSON for processing, and supports JSON data model
-#### Cons
-### Postgres
+- High data availability and scalability for handling large data
+- Easy set up and learning curve
+#### Cons 
+- Does not support foreign keys
+- Hard to uncover insights rapidly
+- Difficult to integrate data from multiple sources and store in a common formatting scheme
+- Has some vulnerabilities in security
+- Does not support traditional SQL syntax
+- Joins not supported since its not a relational database
+- Uses a lot of memory
+
+### PostgreSQL
 #### Pros
 - Object-relational free opensource database
 - Robust feature set
@@ -121,21 +142,39 @@ This report compares database providers, MongoDB or Postgres, and we will determ
 - Can run on all operation systems
 - A lot of community support available
 - Supports ACID (Built in); Atomicity, Consistency, Isolation, Durability
-
+- access control system have features that allow row and column level security and multi-level authentication with certificates
+- reliable storage with fail safes and redundancies. 
+- SQL based database 
+- supports foreign keys (column or group of columns that references another column to establish relationship between)
+- free for everyone
 #### Cons
 - Architecture creates separate services for every client which turns into a lot of memory utilization
 - compared to other Database models, Postgres is not good at performance
 - not very fast compared to others
 - replication is complex
 - Hard installation process
+- limited scalability since processing power depends on the machine its running on
+- cant use indexes in results of a query
+
+### Comparison
+
+MongoDB is a document oriented database meaning it is designed for storing retrieving and managing documented oriented info.  
+Postgres is a relational database based on the relational model of data. It stores data points that are related to one another.  
+If your using lots of unorganized data, document databases are the way to go, versus if your using structured data related to each other, you should use relational.   
+  
+PostgreSQL is a SQL based database but supports some NoSQL. MongoDB only supports NoSQL features. MongoDB uses collections to enforce the rules, and relationships between attributes are maintained through triggers. PostgreSQL uses tables to set triggers on data. It tries to structure the data so it can efficiently process it.   
+  
+MongoDB uses indexes to connect multiple tables together versus PostgreSQL uses joins. Indexes are a data structure with a small amount of data (easy to understand). Joins also combines data as long as you have 2 or more data tables, and there are 4 different types of joins.  
+  
+MongoDB is a good choice if you are first learning database management and lack programing experience since it does not follow SQL syntax. It is also a good choice if you want high computation and processing power.   
+PostgreSQL is a good choice if you want traditional SQL syntax and have fewer resources.   
 ### Conclusion
-mongoDB is a document oriented database meaning it is designed for storing retrieving and managing documented oriented info.  
-postgres is a relational database based on the relational model of data. It stores data points that are related to one another.  
-If your using lots of unorganized data, document databases are the way to go, versus if your using structured data related to eachother, you should use relational. 
+
+Both databases are strong choices, but since we want an easy to use system and we are all new to database design, we are going with MongoDB as our database choice. 
+
 ### Sources
 [PostgresSQL](https://www.postgresql.org/about/)  
 [What Is PostgreSQL](https://www.educba.com/what-is-postgresql/)  
 [mongoDB vs PostgreSQL](https://hevodata.com/learn/mongodb-vs-postgresql/#:~:text=MongoDB%20is%20a%20document%20database%20and%20uses%20BSON,schema-free%20NoSQL%20database%20that%20supports%20a%20distributed%20architecture.)  
-[title](https://www.example.com)  
+[Advantages of MongoDB](https://data-flair.training/blogs/advantages-of-mongodb/)  
 
-# Database Language - SQL/NoSQL
