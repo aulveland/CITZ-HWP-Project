@@ -99,5 +99,43 @@ Material UI is a easy and simple way to create and standardize components to be 
 [Material Design Pros and Cons](https://www.bootstrapdash.com/why-choose-material-design-pros-cons/)  
 [why use material design](https://www.toptal.com/designers/ui/why-use-material-design)
 # Database Decision - MongoDB/Postgres
+### Background
+This report compares database providers, MongoDB or Postgres, and we will determine which will be a better fit for our project
+### MongoDB 
+#### Pros
+- has the potential for ACID (Not built in though)
+- Document database and uses BSON for processing, and supports JSON data model
+#### Cons
+### Postgres
+#### Pros
+- Object-relational free opensource database
+- Robust feature set
+- Highly extensible meaning you can define your own data types, build custom functions and write code from different programing languages in the database
+- Keeps up with SQL standard
+- Comes with Reliability or disaster recovery. 
+- Advanced and well documented database system. 
+- Easy to learn and understand
+- It supports the storage of image, video, audio and graphical data
+- High recovery
+- Table inheritance
+- Can run on all operation systems
+- A lot of community support available
+- Supports ACID (Built in); Atomicity, Consistency, Isolation, Durability
+
+#### Cons
+- Architecture creates separate services for every client which turns into a lot of memory utilization
+- compared to other Database models, Postgres is not good at performance
+- not very fast compared to others
+- replication is complex
+- Hard installation process
+### Conclusion
+mongoDB is a document oriented database meaning it is designed for storing retrieving and managing documented oriented info.  
+postgres is a relational database based on the relational model of data. It stores data points that are related to one another.  
+If your using lots of unorganized data, document databases are the way to go, versus if your using structured data related to eachother, you should use relational. 
+### Sources
+[PostgresSQL](https://www.postgresql.org/about/)  
+[What Is PostgreSQL](https://www.educba.com/what-is-postgresql/)  
+[mongoDB vs PostgreSQL](https://hevodata.com/learn/mongodb-vs-postgresql/#:~:text=MongoDB%20is%20a%20document%20database%20and%20uses%20BSON,schema-free%20NoSQL%20database%20that%20supports%20a%20distributed%20architecture.)  
+[title](https://www.example.com)  
 
 # Database Language - SQL/NoSQL
