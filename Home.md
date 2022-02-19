@@ -2,11 +2,12 @@ Welcome to the CITZ-HybridWorkplace wiki!
 # Content
 
 - [X] Introduction
-    - [] [Business Problem](https://github.com/bcgov/CITZ-HybridWorkplace/wiki)
+    - [] [Problem Opportunity Statement](https://github.com/bcgov/CITZ-HybridWorkplace/wiki)
 - [X] People
 	- **Project Sponsor:** BC Government OCIO ES - Information Management Branch
 	- **Roles:**
         + **Product Owner:** Robert Kobenter
+        + **SCRUM Master:** Meghan Peebles
         + **Product Sponsor:** Craig Shutko
         + **Project Stakeholders:** RISE members, leadership candidates
         + **Front Dev Team:** Abby & Jayna
@@ -14,7 +15,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
         + **Dev Ops:** Poornima Sivanand & Team
        
 - [ ] Design & Architecture
-    - [ ] [Interviews](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Research#interview-notes)
+    - [ ] [User Engagement](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Research#user-engagement)
     - [ ] [Personas](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Research#personas)
     - [ ] [Journeys](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Journeys#collaborator)
     - [ ] [Wireframes](https://github.com/bcgov/citz-HybridWorkplace/wiki/Wireframes)
@@ -29,7 +30,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] TODO: [APIs]
     - [ ] TODO: [Installation]
     - [ ] TODO: [Deployment]
-    - [ ] TODO: [MongoDB Backup and Restore](https://github.com/bcgov/citz-dst-capstone-2021/wiki/RDSI-Database-on-MongoDB)
+    - [ ] TODO: [MongoDB Backup and Restore](https://github.com/bcgov/citz-HybridWorkplace/wiki/RDSI-Database-on-MongoDB)
     - [ ] TODO: [Style Guides](https://github.com/bcgov/citz-dst-capstone-2021/blob/main/app/docs/style-guides.md)
     - [ ] TODO: Code Review Checklist
 - [ ] TODO: [Project Portfolio]
