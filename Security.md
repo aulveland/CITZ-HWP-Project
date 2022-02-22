@@ -1,4 +1,4 @@
-# Security Table - Action vs Rolls
+# Security Table - Action vs Roles
 This table defines the security access each roll has on the platform.  
   
 ### Legend
@@ -21,15 +21,15 @@ Roles:
 | --- | :---: | :---: | :---: | :---: |
 | Sign up | :heavy_check_mark: | | | |
 | Log In/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Create/Edit Profile | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| Create/Edit Profile | :heavy_check_mark: |  | :heavy_check_mark: | |
 | See List of All Users | | | :heavy_check_mark: | :heavy_check_mark: |
 | See All Communities | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Join Community | :heavy_check_mark: | | | |
 | List All Community Members |  | | :heavy_check_mark: | :heavy_check_mark: |
 | Search Communities | :heavy_check_mark: | :heavy_check_mark: | | |
-| Post | | :heavy_check_mark: | | |
-| Comment | | :heavy_check_mark: | | |
-| Vote | | :heavy_check_mark: | | |
+| Post | | :heavy_check_mark: | :heavy_check_mark: | |
+| Comment | | :heavy_check_mark: | :heavy_check_mark: | |
+| Vote | | :heavy_check_mark: | :heavy_check_mark: | |
 | Approve Posting | | | :heavy_check_mark: | :heavy_check_mark: |
 | Reject Posting| | | :heavy_check_mark: | :heavy_check_mark: |
 | Set Notification Preference | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
@@ -38,6 +38,6 @@ Roles:
 | See All Flagged Posts| | | :heavy_check_mark: | :heavy_check_mark: |
 | Edit / Delete | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Add / Remove Members | | | :heavy_check_mark: | :heavy_check_mark: |
-| Assign/Remove Moderators | | | | :heavy_check_mark: |
+| Assign / Remove Moderators | | | | :heavy_check_mark: |
 | Add / Remove Users| | | | :heavy_check_mark: |
 
