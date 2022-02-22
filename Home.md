@@ -2,7 +2,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
 # Content
 
 - [X] Introduction
-    - [] [Problem Opportunity Statement](https://github.com/bcgov/CITZ-HybridWorkplace/wiki)
+    - [ ] [Problem Opportunity Statement](https://github.com/bcgov/CITZ-HybridWorkplace/wiki)
 - [X] People
 	- **Project Sponsor:** BC Government OCIO ES - Information Management Branch
 	- **Roles:**
