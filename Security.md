@@ -1,7 +1,7 @@
 # Security Table - Action vs Rolls
 This table defines the security access each roll has on the platform.  
   
-#### Legend
+### Legend
 | Full Access | Partial Access |
 | :---: | :---: |
 | :heavy_check_mark: | :white_check_mark: |
