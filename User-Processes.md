@@ -35,7 +35,7 @@ If a user successfully logs in, then they are redirected to their dashboard. Oth
 
 ## Register New User
 
-**Who:** Submitter, Finance Analyst, Data Analyst, & Executive
+**Who:** All Users
 
 **When:** A user is not registered in the system
 
@@ -51,9 +51,9 @@ Each field in the form must be validated before the user information is submitte
 - **First Name** and **Last Name** fields must be alphanumeric and each be between 1 and 50 characters long.
 - **Email** is required and must be a valid email address.
 - **Password** is required must contain at least 8 characters, one uppercase character, one number and one special character. Both passwords must match.
-- **Job Title** is required and must be alphanumeric and be between 1 and 50 characters long.
-- **Role** is required and the user must select either Admin, Submitter, Finance Analyst, Executive, or User roles. The default role is User.
-- **Ministry** is required and the user must select from a list of BC Government ministries.
+- **Job  Profile** is required and must be alphanumeric and be between 1 and 50 characters long.
+- **Role** is required and the user must select either Admin, Moderator, or User roles. The default role is User.
+
 
 Once all fields are filled out and pass validation, select **Submit** to register the new user in the application.
 
