@@ -8,10 +8,11 @@
 
 # User features U1
 - [ ] U1T1 - Sigh in / Register
-- [ ] U1T2 - Create / edit profile
-- [ ] U1T3 - Log in / out
+- [ ] U1T2 - Create profile
+- [ ] U1T3 - Edit profile
+- [ ] U1T4 - Log in / out
 
-# Community features 
+# Community features U2
 - [ ] U2T1 - See list of all communities
 - [ ] U2T2 - Join a community
 - [ ] U2T3 - See all joined communities
@@ -27,7 +28,7 @@
 - [ ] U2T13 - Propose community
 - [ ] U2T14 - Leave community
 
-# Moderator features
+# Moderator features M1
 - [ ] M1T1 - Approve posts
 - [ ] M1T2 - Reject post
 - [ ] M1T3 - Approve new users to community
@@ -36,8 +37,9 @@
 - [ ] M1T6 - Add members
 - [ ] M1T7 - Remove members
 - [ ] M1T8 - Delete users posts
+- [ ] M1T9 - List of Community members
 
-# System Admin
+# System Admin S1
 - [ ] S1T1 - Create community
 - [ ] S1T2 - Assign Moderators to community  
 - [ ] S1T3 - Remove Moderators
@@ -46,4 +48,5 @@
 - [ ] S1T6 - Remove Community
 - [ ] S1T7 - Back up database
 - [ ] S1T8 - Edit users profile
+- [ ] S1T9 - See list of all users
 
