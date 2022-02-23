@@ -19,28 +19,36 @@ Roles:
 
 | Actions |  User  | Member | Moderator | System Admin |
 | --- | :---: | :---: | :---: | :---: |
-| Sign up | :heavy_check_mark: | | | |
-| Log In/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Create/Edit Profile | :heavy_check_mark: |  | :heavy_check_mark: | |
-| See List of All Users | | | :heavy_check_mark: | :heavy_check_mark: |
-| See All Communities | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Join Community | :heavy_check_mark: | | | |
-| List All Community Members |  | | :heavy_check_mark: | :heavy_check_mark: |
-| Search Communities | :heavy_check_mark: | :heavy_check_mark: | | |
-| Propose Communities | :heavy_check_mark: | :heavy_check_mark: | | |
-| Post | | :heavy_check_mark: | :heavy_check_mark: | |
-| Comment | | :heavy_check_mark: | :heavy_check_mark: | |
-| Vote | | :heavy_check_mark: | :heavy_check_mark: | |
-| Approve Posting | | | :heavy_check_mark: | :heavy_check_mark: |
-| Reject Posting| | | :heavy_check_mark: | :heavy_check_mark: |
-| Set Notification Preference | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
-| Leave Community| | :heavy_check_mark: | | |
-| Flag Posts | :heavy_check_mark: | :heavy_check_mark: | | |
-| See All Flagged Posts| | | :heavy_check_mark: | :heavy_check_mark: |
-| Edit / Delete | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Add / Remove Members | | | :heavy_check_mark: | :heavy_check_mark: |
-| Assign / Remove Moderators | | | | :heavy_check_mark: |
-| Add / Remove Users| | | | :heavy_check_mark: |
+| U1T1 - Sign up | :heavy_check_mark: | | | |
+| U1T4 - Log In/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| U1T4 - Create Profile | :heavy_check_mark: |  | :heavy_check_mark: | |
+| U1T3 - Edit Profile | :heavy_check_mark: |  | :heavy_check_mark: | |
+| S1T9 - See List of All Users | | | :heavy_check_mark: | :heavy_check_mark: |
+| U2T1 - See All Communities | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| U2T2 - Join Community | :heavy_check_mark: | | | |
+| M1T9 - List All Community Members |  | | :heavy_check_mark: | :heavy_check_mark: |
+| U2T4 - Search Communities | :heavy_check_mark: | :heavy_check_mark: | | |
+| U2T13 - Propose Communities | :heavy_check_mark: | :heavy_check_mark: | | |
+| S1T6 - Remove Community| | | | :heavy_check_mark: |
+| S1T1 - Create Community| | | | :heavy_check_mark: |
+| U2T5 - Post | | :heavy_check_mark: | :heavy_check_mark: | |
+| U2T6 - Comment | | :heavy_check_mark: | :heavy_check_mark: | |
+| U2T7 - Vote | | :heavy_check_mark: | :heavy_check_mark: | |
+| M1T1 - Approve Posting | | | :heavy_check_mark: | :heavy_check_mark: |
+| M1T2 - Reject Posting| | | :heavy_check_mark: | :heavy_check_mark: |
+| U2T8 - Set Notification Preference | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| U2T9 - Leave Community| | :heavy_check_mark: | | |
+| U2T10 - Flag Posts | :heavy_check_mark: | :heavy_check_mark: | | |
+| M1T5 - See All Flagged Posts| | | :heavy_check_mark: | :heavy_check_mark: |
+| U2T11 - Edit post | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| U2T12 - Delete post | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| M1T3 - Approve Members to community | | | :heavy_check_mark: | :heavy_check_mark: |
+| M1T4 - Remove Members from community | | | :heavy_check_mark: | :heavy_check_mark: |
+| S1T2 - Assign  Moderators to community | | | | :heavy_check_mark: |
+| S1T3 - Remove  Moderators from community | | | | :heavy_check_mark: |
+| S1T4 - Approve Users| | | | :heavy_check_mark: |
+| S1T5 - Remove Users| | | | :heavy_check_mark: |
+
 
 ## User Stories in relation to security
   
