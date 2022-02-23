@@ -27,6 +27,7 @@ Roles:
 | Join Community | :heavy_check_mark: | | | |
 | List All Community Members |  | | :heavy_check_mark: | :heavy_check_mark: |
 | Search Communities | :heavy_check_mark: | :heavy_check_mark: | | |
+| Propose Communities | :heavy_check_mark: | :heavy_check_mark: | | |
 | Post | | :heavy_check_mark: | :heavy_check_mark: | |
 | Comment | | :heavy_check_mark: | :heavy_check_mark: | |
 | Vote | | :heavy_check_mark: | :heavy_check_mark: | |
@@ -40,4 +41,62 @@ Roles:
 | Add / Remove Members | | | :heavy_check_mark: | :heavy_check_mark: |
 | Assign / Remove Moderators | | | | :heavy_check_mark: |
 | Add / Remove Users| | | | :heavy_check_mark: |
+
+## User Stories in relation to security
+  
+### User
+**U1** - As a **user** I need to **register & login** to use the tool
+1)	Sign up to create account
+2)	Log in to create profile
+3)	Log in to edit my profile
+4)	Log in to see a list of all users  
+  
+  
+**U2** - As a **user** I wish to participate in a **community**
+1) Must be logged in to access communities
+&nbsp; a. log in token
+2)	See a list of communities  
+&nbsp; b.       see list on homepage   
+&nbsp; c.       tab or section listing all communities that can access any time
+3) Search for community  
+&nbsp; a. search by community name
+4)	Join a community  
+&nbsp; a. Approved by moderators  
+&nbsp; b. Gain access to post comment and vote inside the community
+5)	Propose a community  
+&nbsp; a. Assured community doesn't already exist
+&nbsp; b. Approved by moderator
+6)	Leave a community  
+&nbsp; a.	Existing posts are maintained because they have a thread associated with other users
+7)	Make a posting as part of a community  
+&nbsp; a. Notifies moderator so they can approve
+&nbsp; b. part of a thread or standalone post
+8)	Make comments on other people’s community postings
+9)	Flag a posting as potentially inappropriate  
+&nbsp; a.	Notifies the community moderator
+10)	List all users in the community  
+&nbsp; a. only seen by community members or only moderators
+11)	Vote on a posting
+12)	Vote on a comment  
+
+### Moderator
+ 
+**M1** - As a **community leader** I am required to provide **moderation** 
+1)	Approve New users to a community
+2)	Reject membership
+3) Approve membership
+4)	Reject postings  
+5) Approve postings
+  
+### System Admin 
+**S1** - As a **system admin** I provide **management** of the tool/system
+1)	Approve creation of new communities
+2)	Able to put a community on hold
+3)	Able to remove communities
+4)	Able to remove users
+5)	Able to approve new users
+6)	Able to back up the database
+7)	Able to change profiles
+8) Able to assign moderators
+9) Able to remove moderators
 
