@@ -77,7 +77,8 @@ Roles:
 10)	List all users in the community  
 &nbsp; a. only seen by community members or only moderators
 11)	Vote on a posting
-12)	Vote on a comment  
+12)	Vote on a comment
+13) Choose notification preference  
 
 ### Moderator
  
@@ -87,6 +88,8 @@ Roles:
 3) Approve membership
 4)	Reject postings  
 5) Approve postings
+6) Able to see list of all flagged posts
+7) Delete posts once already been approved
   
 ### System Admin 
 **S1** - As a **system admin** I provide **management** of the tool/system
