@@ -22,7 +22,7 @@ Roles:
 | U1T1 - Sign up | :heavy_check_mark: | | | |
 | U1T4 - Log In/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | U1T4 - Create Profile | :heavy_check_mark: |  | :heavy_check_mark: | |
-| U1T3 - Edit Profile | :heavy_check_mark: |  | :heavy_check_mark: | |
+| U1T3 - Edit Profile | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | S1T9 - See List of All Users | | | :heavy_check_mark: | :heavy_check_mark: |
 | U2T1 - See All Communities | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | U2T2 - Join Community | :heavy_check_mark: | | | |
