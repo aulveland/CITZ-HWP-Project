@@ -7,7 +7,7 @@
 - System Admin 
 
 # User features U1
-- [ ] U1T1 - Sigh in / Register
+- [ ] U1T1 - Sign in / Register
 - [ ] U1T2 - Create profile
 - [ ] U1T3 - Edit profile
 - [ ] U1T4 - Log in / out
