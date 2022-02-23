@@ -34,8 +34,8 @@ Roles:
 | U2T5 - Post | | :heavy_check_mark: | :heavy_check_mark: | |
 | U2T6 - Comment | | :heavy_check_mark: | :heavy_check_mark: | |
 | U2T7 - Vote | | :heavy_check_mark: | :heavy_check_mark: | |
-| M1T1 - Approve Posting | | | :heavy_check_mark: | :heavy_check_mark: |
-| M1T2 - Reject Posting| | | :heavy_check_mark: | :heavy_check_mark: |
+| M1T1 - Approve Posting | | | :heavy_check_mark: |  |
+| M1T2 - Reject Posting| | | :heavy_check_mark: | |
 | U2T8 - Set Notification Preference | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | U2T9 - Leave Community| | :heavy_check_mark: | | |
 | U2T10 - Flag Posts | :heavy_check_mark: | :heavy_check_mark: | | |
