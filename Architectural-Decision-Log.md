@@ -74,7 +74,7 @@ The two programing languages are very similar and would both work well with what
 # MaterialUI  
 Material design is a set of style guidelines. Rule set to handle design situations. 
 ### Pros
--	Smooth UI transitions and animations between elements  can be used for movement on screen or highlighting buttons ect…
+-	Smooth UI transitions and animations between elements (can be used for movement on screen or highlighting buttons ect…)
 -	Fast page switching, animations, fast screen scrolling and content updates
 -	Self contained UI components that are reusable and packed with API styles for your use.
 -	Responsive to different page sizes (for example if have a small screen size)
