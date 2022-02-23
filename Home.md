@@ -16,7 +16,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
        
 - [ ] Design & Architecture
     - [ ] [User Engagement](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Research#user-engagement)
-    - [ ] [Personas](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Research#personas)
+    - [ ] [Personas](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Personas)
     - [ ] [Journeys](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Journeys#collaborator)
     - [ ] [Wireframes](https://github.com/bcgov/citz-HybridWorkplace/wiki/Wireframes)
     - [ ] [Security](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Security)
