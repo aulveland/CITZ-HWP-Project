@@ -1,7 +1,7 @@
 ## Aspiring Leader
 
 ### Michael Smith
-"Leader of a full stack development team working on a project for citizens to locate their doctors in their local communities by creating mobile applications"  
+"Leader of a full stack development team working on a project for citizens to locate their doctors in their local communities by creating mobile applications."  
 
 Michael has plenty of experience and is successful in his area of expertise. He is familiar with full stack and can learn software with minimal training. He has excellent soft skills, is self organized, and is open to adopting new technologies to improve his leadership abilities.  
 
@@ -11,19 +11,15 @@ Michael has plenty of experience and is successful in his area of expertise. He 
 
 #### Key Goals:
 Constantly seeking to improve to support his team.  
-
 Share his experiences and learn from others.  
 
 #### Key Concerns:
 Lack of Resources.  
-
 Lack of experiences.  
-
 Finding useful guidance.  
 
 #### Success Definition:
 Able to contribute (and find) guidance regarding different work related topics.  
-
 Able to support my team from wherever they choose to work from.  
 
 #### User Story:
@@ -46,5 +42,74 @@ Able to support my team from wherever they choose to work from.
 ## Continuous Learner 
 
 ### Linda Robinson
+"Member of a full stack development team working on a project for citizens to locate their doctors in their local communities by creating mobile applications."  
+
+Linda is a new member of the team and has limited experience working in government. She is familiar with full stack and can learn software with some training. She is not a “people person” and tends to keep to herself. She is slightly disorganized and prefers to work remotely.  
+
+-General employee  
+-Age 30  
+-Linda.Robinson@gov.bc.ca  
+
+#### Key Goals:
+Be successfully onboarded.  
+Learn from the experiences of others and apply it to how I work.
+
+#### Key Concerns:
+Finding useful guidance.  
+Lack of experience.
+
+#### Success Definition:
+Able to find (and contribute) guidance regarding different work related topics.  
+Able to have questions answered in a timely effective manner.  
+Able to be successfully onboarded.
+
+#### User Story:
+
+**Personality Traits:** Patience - Disorganized - Determined - Honest - Proactive
+
+#### Needs:
+-Timely access to information  
+-Easy to use website  
+-Reliable information  
+
+#### Jobs To Do:
+-Productive member of Devops team  
+-Learn agile methodology  
+-Be onboarded  
+-Learn new technologies  
+
 
 ### Ashly Miller 
+"Senior Customer Service Representative providing in-person counter service and telephone service experience to citizens and businesses."  
+
+Ashly has experience working in customer service and would be considered an extroverted “people person”. She prefers working in person due to her limited knowledge of computers and enjoys the company of co-workers.  
+
+-General employee  
+-Age 36  
+-Ashly.Miller@gov.bc.ca  
+
+#### Key Goals:
+Learn from the experiences of others and apply it to how I work.
+
+#### Key Concerns:
+Finding useful guidance.  
+Lack of experience.
+
+#### Success Definition:
+Able to find (and contribute) guidance regarding different work related topics.  
+Able to have questions answered in a timely effective manner.  
+
+#### User Story:
+
+**Personality Traits:** Friendly - Honest - Curious - Creative - Patient
+
+#### Needs:
+-Timely access to information  
+-Easy to use website  
+-Reliable information  
+-Connection / Communication with co-workers
+
+#### Jobs To Do:
+-Connect with citizens and businesses with information requests  
+-Communicate through mail / telephone / in-person  
+-Learn to navigate a hybrid workplace    
