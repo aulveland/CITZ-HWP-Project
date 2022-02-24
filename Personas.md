@@ -7,7 +7,7 @@ Michael has plenty of experience and is successful in his area of expertise. He 
 
 -Supervisor / Leader  
 -Age 45  
--Michael.Smith@gov.bc.ca  
+-Michael.Smith@bcgov  
 
 #### Key Goals:
 Constantly seeking to improve to support his team.  
@@ -48,7 +48,7 @@ Linda is a new member of the team and has limited experience working in governme
 
 -General employee  
 -Age 30  
--Linda.Robinson@gov.bc.ca  
+-Linda.Robinson@bcgov  
 
 #### Key Goals:
 Be successfully onboarded.  
@@ -86,7 +86,7 @@ Ashly has experience working in customer service and would be considered an extr
 
 -General employee  
 -Age 36  
--Ashly.Miller@gov.bc.ca  
+-Ashly.Miller@bcgov  
 
 #### Key Goals:
 Learn from the experiences of others and apply it to how I work.
