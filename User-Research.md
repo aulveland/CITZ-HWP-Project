@@ -50,7 +50,7 @@
 &nbsp; d. Tagging   
 &nbsp; e. Other – (please provide example)   
   
-9. Rate the importance of the following features:
+9. Rate the importance of the following features:  
 1 – Not important, 2 – Somewhat important, 3 – Important, 4 - Very Important, 5 – Can’t live without it 
   
 | feature | 1 | 2 | 3 | 4 | 5 |
@@ -78,12 +78,16 @@
 
 ## Poll #1
 ### Date
-### Audience
+February 9th 2022
+### Audience 
+Coop Students 
 ### Results
 
 ## Poll #2
 ### Date
+February 10th 2022
 ### Audience
+DWI Team
 ### Results
 
 ## Cumulative Results
