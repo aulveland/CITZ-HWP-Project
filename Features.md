@@ -1,10 +1,17 @@
 # Features of the HWP Leadership Platform 
 
 # Roles
-- User
-- Member (part of a community)
-- Community Moderator
-- System Admin 
+**User**  
+The user role is a  basic role containing features that are enabled without joining any community  
+  
+**Member**  
+The member role is a user that is part of a community. This role contains features and actions you can take as a community member   
+  
+**Community Moderator**  
+The community Moderator role controls and moderates members action as the moderator of a community  
+  
+**System Admin**  
+System Admin is responsible for upkeeping the platform  
 
 # User features U1
 - [ ] U1T1 - Sign in / Register
