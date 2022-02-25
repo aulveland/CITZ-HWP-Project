@@ -19,11 +19,13 @@ Roles:
 
 | Actions |  User  | Member | Moderator | System Admin |
 | --- | :---: | :---: | :---: | :---: |
+| **Registration** | |
 | U1T1 - Sign up | :heavy_check_mark: | | | |
 | U1T4 - Log In/Off | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | U1T4 - Create Profile | :heavy_check_mark: |  | :heavy_check_mark: | |
 | U1T3 - Edit Profile | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
 | S1T9 - See List of All Users | | | :heavy_check_mark: | :heavy_check_mark: |
+| **Communities** |
 | U2T1 - See All Communities | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | U2T2 - Join Community | :heavy_check_mark: | | | |
 | M1T9 - List All Community Members |  | | :heavy_check_mark: | :heavy_check_mark: |
@@ -34,14 +36,15 @@ Roles:
 | U2T5 - Post | | :heavy_check_mark: | :heavy_check_mark: | |
 | U2T6 - Comment | | :heavy_check_mark: | :heavy_check_mark: | |
 | U2T7 - Vote | | :heavy_check_mark: | :heavy_check_mark: | |
-| M1T1 - Approve Posting | | | :heavy_check_mark: |  |
-| M1T2 - Reject Posting| | | :heavy_check_mark: | |
-| U2T8 - Set Notification Preference | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
-| U2T9 - Leave Community| | :heavy_check_mark: | | |
-| U2T10 - Flag Posts | :heavy_check_mark: | :heavy_check_mark: | | |
-| M1T5 - See All Flagged Posts| | | :heavy_check_mark: | :heavy_check_mark: |
 | U2T11 - Edit post | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | U2T12 - Delete post | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| U2T8 - Set Notification Preference | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+| U2T9 - Leave Community| | :heavy_check_mark: | | |
+| **Administration** | |
+| M1T1 - Approve Posting | | | :heavy_check_mark: |  |
+| M1T2 - Reject Posting| | | :heavy_check_mark: | |
+| U2T10 - Flag Posts | :heavy_check_mark: | :heavy_check_mark: | | |
+| M1T5 - See All Flagged Posts| | | :heavy_check_mark: | :heavy_check_mark: |
 | M1T3 - Approve Members to community | | | :heavy_check_mark: | :heavy_check_mark: |
 | M1T4 - Remove Members from community | | | :heavy_check_mark: | :heavy_check_mark: |
 | S1T2 - Assign  Moderators to community | | | | :heavy_check_mark: |
