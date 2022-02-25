@@ -18,13 +18,13 @@ When developing the actual product a traditional approach often empowered a smal
 
 https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/#:~:text=The%20main%20difference%20is%20that,different%20phases%20of%20the%20project.
 
-### Virtual tools (e,g,: Mural)
+Virtual tools (e,g,: Mural)
 ### Agile ceremonies 
-### Sprint Planning
+* Sprint Planning
 Daily Scrum Meetings
-use of a Kanban board
-### Sprint Reviews
-### Sprint retros
+* use of a Kanban board
+* Sprint Reviews
+* Sprint retros
 
 
 ## 2)	human-centered design vs requirements based design   ( https://en.wikipedia.org/wiki/Requirements_engineering )
