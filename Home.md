@@ -33,7 +33,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] TODO: [MongoDB Backup and Restore](https://github.com/bcgov/citz-HybridWorkplace/wiki/RDSI-Database-on-MongoDB)
     - [ ] TODO: [Style Guides](https://github.com/bcgov/citz-dst-capstone-2021/blob/main/app/docs/style-guides.md)
     - [ ] [Code Review Checklist](https://gist.github.com/bigsergey/aef64f68c22b3107ccbc439025ebba12)
-    - [ ] [Code Review Checklist Guidelines] (https://www.jondjones.com/frontend/react/react-tutorials/react-coding-standards-and-practices-to-level-up-your-code/)
+    - [ ] [Code Review Checklist Guidelines](https://www.jondjones.com/frontend/react/react-tutorials/react-coding-standards-and-practices-to-level-up-your-code/)
 - [ ] TODO: [Project Portfolio]
     - [ ] TODO: [Project Charter]
     - [ ] [Status Report]
