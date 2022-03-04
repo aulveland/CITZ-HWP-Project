@@ -1,6 +1,4 @@
 Welcome to the CITZ-HybridWorkplace wiki!
-
-Welcome to the CITZ-HybridWorkplace wiki!
 # Content
 
 - [X] Introduction
@@ -45,11 +43,5 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] [Meeting Notes]
 - [ ] [Recommendations/Lessons Learned]
 
-# The Business Problem
-
-## Summary
-
-
-## Pain Points:
 
 
