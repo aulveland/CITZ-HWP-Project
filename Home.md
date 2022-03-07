@@ -19,7 +19,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] [User Engagement](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/3.User-Research)
     - [ ] [Personas](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/4.Personas)
     - [ ] [Journeys](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/5.User-Journeys)
-    - [ ] [Wireframes](https://github.com/bcgov/citz-HybridWorkplace/wiki/Wireframes)
+    - [ ] [Wireframes](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes)
     - [ ] [Security](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Security)
     - [ ] [Data Model]
     - [ ] [Architectural Decision Log](https://github.com/bcgov/citz-HybridWorkplace/wiki/Architectural-Decision-Log)
