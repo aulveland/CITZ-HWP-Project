@@ -16,7 +16,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
         + **Dev Ops:** Poornima Sivanand & Team
        
 - [ ] Design & Architecture
-    - [ ] [User Engagement](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Research#user-engagement)
+    - [ ] [User Engagement](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/3.User-Research)
     - [ ] [Personas](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Personas)
     - [ ] [Journeys](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Journeys#collaborator)
     - [ ] [Wireframes](https://github.com/bcgov/citz-HybridWorkplace/wiki/Wireframes)
