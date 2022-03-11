@@ -5,7 +5,7 @@
   
 **UI Frameworks:** Material UI  
   
-
+**State Management System:** Redux
 
 # Style Guide 
 We have decided to Adopt the AirBnB style guide for this project  
@@ -178,3 +178,21 @@ Both databases are strong choices, but since we want an easy to use system and w
 [mongoDB vs PostgreSQL](https://hevodata.com/learn/mongodb-vs-postgresql/#:~:text=MongoDB%20is%20a%20document%20database%20and%20uses%20BSON,schema-free%20NoSQL%20database%20that%20supports%20a%20distributed%20architecture.)  
 [Advantages of MongoDB](https://data-flair.training/blogs/advantages-of-mongodb/)  
 
+# State Management System 
+### Background
+This Report Chooses the state management system we are using in our code  
+  
+### Redux
+#### Pros
+- good integration with react frameworks
+- Makes state predictable
+- Maintainable due to its strict organization
+- Persistent state
+- Easy to debug since log actions and states  
+#### Cons
+- Very large boiler plate
+- Requires a learning curve
+- Complex if don't require data from multiple sources
+
+### Sources 
+[When to choose Redux](https://blog.boardinfinity.com/working-with-redux-pros-and-cons/)
