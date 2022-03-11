@@ -189,10 +189,19 @@ This Report Chooses the state management system we are using in our code
 - Maintainable due to its strict organization
 - Persistent state
 - Easy to debug since log actions and states  
+- can manage state in a single place so changes made are more predictable
+- Components don't need to share data for their children
+- can optimize performance of your app
 #### Cons
 - Very large boiler plate
 - Requires a learning curve
 - Complex if don't require data from multiple sources
+- Small changes could require you to write a large amount of code
+
+### Conclusion 
+Redux is a hard to learn and understand tool that requires a lot of boiler plate code to run, however since we will potentially be using a lot of data, it is a good system to use to manage state. Using Redux will make our code maintainable and easier to debug. 
 
 ### Sources 
 [When to choose Redux](https://blog.boardinfinity.com/working-with-redux-pros-and-cons/)
+[Why Choose Redux](https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/)
+[Don't use Redux](https://orgler.medium.com/dont-use-redux-9e23b5381291#:~:text=What%20I%20Hate%20About%20Redux,result%20in%20small%20code%20changes.)
