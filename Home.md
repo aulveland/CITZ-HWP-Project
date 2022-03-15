@@ -21,6 +21,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] [Journeys](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/5.User-Journeys)
     - [ ] [Wireframes](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes)
     - [ ] [Security](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/7.Security)
+    - [X] [Application Architecture] (https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
     - [ ] [Data Model]
     - [ ] [Architectural Decision Log](https://github.com/bcgov/citz-HybridWorkplace/wiki/Architectural-Decision-Log)
 - [ ] [User Processes](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Processes)
