@@ -7,7 +7,9 @@ they then click that link to see their '**MyNewPosts**' page.
 
 ### investigate these links and topics
 *  [Send and Schedule emails from a node.js app](https://blog.greenroots.info/send-and-schedule-e-mails-from-a-nodejs-app)
-* [node-cron vs node-schedule](https://blog.logrocket.com/comparing-best-node-js-schedulers/)
+*  [node-cron vs node-schedule](https://blog.logrocket.com/comparing-best-node-js-schedulers/)
+*  [Using CHES - Specification](https://bcgov.github.io/common-service-showcase/services/ches.html)
+*  [CHES showcase app](https://chess.apps.silver.devops.gov.bc.ca/app/)
 *  long polling in MERN
 *  callbacks
 *  socket.io 
