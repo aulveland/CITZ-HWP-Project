@@ -12,3 +12,14 @@ they then click that link to see their '**MyNewPosts**' page.
 *  long polling in MERN
 *  callbacks
 *  socket.io 
+
+**# CHALLENGE -  Using IDIR authentication**
+## ISSUE -  How to integrate KeyCloak?
+
+Currently in our solution we have a user sign on page that asks users for their user credentials which are stored in the user table of our mongodb . The password is bcrypt'd and we use JWTs for token based authorization. In our preferred Identity management system we wish to incorporate the BCGov KeyCloak standard.
+
+### What will help us solve this challenge?
+
+### investigate these links and topics
+*  [developer.bcgov resources](https://developer.gov.bc.ca/Authentication-and-Authorization/Request-SSO-Client-Creation)
+*  [Realm-o-matic](https://github.com/bcgov/realm-o-matic)
