@@ -21,8 +21,8 @@ Currently for our solution we are developing on local machine and testing on Net
 
 ### investigate these links and topics
 
-[OpenShift Adoption](https://developer.gov.bc.ca/topic/featured/Service-Overview-for-BC-Government-Private-Cloud-as-a-ServiceOpenshift-4-Platform)
-[Developing for OpenShift](https://github.com/bcgov/CITZ-IMB-Capstone2020/blob/master/docs/Solution%20Readme.md#deploying-to-openshift)
+* [OpenShift Adoption](https://developer.gov.bc.ca/topic/featured/Service-Overview-for-BC-Government-Private-Cloud-as-a-ServiceOpenshift-4-Platform)
+* [Developing for OpenShift](https://github.com/bcgov/CITZ-IMB-Capstone2020/blob/master/docs/Solution%20Readme.md#deploying-to-openshift)
 
 **# CHALLENGE -  Using IDIR authentication**
 ## ISSUE -  How to integrate KeyCloak?
