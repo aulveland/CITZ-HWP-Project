@@ -21,12 +21,12 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] [Journeys](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/5.User-Journeys)
     - [ ] [Wireframes](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes)
     - [ ] [Security](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/7.Security)
-    - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
     - [ ] [Data Model]
     - [ ] [Architectural Decision Log](https://github.com/bcgov/citz-HybridWorkplace/wiki/Architectural-Decision-Log)
 - [ ] [User Processes](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Processes)
 - [ ] Solution Architecture
-    - [ ] TODO: [Diagram]
+    - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
+
     - [ ] TODO: [Front-end Dependencies]
     - [ ] TODO: [API Server Dependencies]
     - [ ] TODO: [APIs]
@@ -36,7 +36,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] TODO: [Style Guides](https://github.com/bcgov/citz-dst-capstone-2021/blob/main/app/docs/style-guides.md)
     - [ ] [Code Review Checklist](https://gist.github.com/bigsergey/aef64f68c22b3107ccbc439025ebba12)
     - [ ] [Code Review Checklist Guidelines](https://www.jondjones.com/frontend/react/react-tutorials/react-coding-standards-and-practices-to-level-up-your-code/)
-- [ ] TODO: [Project Portfolio]
+    - [ ] TODO: [Project Portfolio]
     - [ ] TODO: [Project Charter]
     - [ ] [Status Report]
     - [ ] [Products Requirement Document]
