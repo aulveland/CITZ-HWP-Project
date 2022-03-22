@@ -7,7 +7,7 @@ Link: https://mui.com/
 #### Add to local machine 
 To implement it (add) to code:  npm install @mui/material @emotion/react @emotion/styled
 -	The above step has already been implemented in our project
-## Components used in our project
+# Components Used
 ### Grid
 https://mui.com/components/grid/ 
 -	Helps style components in a grid structure. 
