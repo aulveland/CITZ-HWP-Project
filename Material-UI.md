@@ -141,6 +141,7 @@ import { purple } from '@mui/material/colors';
 });  
 
 ### Box 
+https://mui.com/components/box/
 - acts like a div component (wrapper)
 - can style it using all of mui styles
 - use sx prop to specify any CSS rules you want to apply to the box
