@@ -1,5 +1,25 @@
 # Standards
 
+Core Principles:
+
+1) pick & choose your UX concepts - themes, paper & cards and translate into implementation (grid system)
+2) usability comes first - make it clean and simple
+3) listen to users - solicit feedback, adapt as required
+4) adopt BCSans typography
+
+
+Importance of:
+https://info.keylimeinteractive.com/10-things-you-need-to-know-about-material-design
+
+ 
+Rules:
+https://www.uxpin.com/studio/blog/material-design-rules/
+
+
+Guidelines:
+https://material.io/design/guidelines-overview
+
+
 # Usage
 Material UI [MUI]
 Updated version MUI5 
