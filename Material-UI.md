@@ -78,3 +78,27 @@ Basically, wrap entire App.js block in a container (as an option)
 &nbsp; &nbsp;  </ CardActionArea>  
 &nbsp; </ Card>   
 -	This example also includes imports from CardActionAria, CardContent all from MUI
+
+##Typography
+
+/app/client/src/...
+
+/**
+ * Typography
+ * @author Jason C. Leach from [platform-service-registry](https://github.com/bcgov/platform-services-registry)
+ */
+
+import '@bcgov/bc-sans/css/BCSans.css';
+import Typography from 'typography';
+
+const typography = new Typography({
+  baseFontSize: '16px',
+  baseLineHeight: 1.25,
+  headerFontFamily: ['BCSans', 'Noto Sans', 'Verdana', 'Arial', 'sans-serif'],
+  bodyFontFamily: ['BCSans', 'Noto Sans', 'Verdana', 'Arial', 'sans-serif'],
+  scaleRatio: 2.074,
+});
+
+typography.injectStyles();
+
+export default typography;
