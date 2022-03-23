@@ -1,6 +1,4 @@
-The HWP project has adopted the use of Material-UI as the UX design framework as identified in the [Architectural Decision Log](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Architectural-Decision-Log#materialui)
-
-# Standards
+The HWP project has adopted the use of Material-UI as the UX design framework as identified in the [Architectural Decision Log](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Architectural-Decision-Log#materialui). Start your journey by understanding the [importance of Material-UI](https://info.keylimeinteractive.com/10-things-you-need-to-know-about-material-design).
 
 ## Core Principles:
 
@@ -9,15 +7,10 @@ The HWP project has adopted the use of Material-UI as the UX design framework as
 3) listen to users - solicit feedback, adapt as required
 4) adopt BCSans typography
 
+Follow these [material design rules:](https://www.uxpin.com/studio/blog/material-design-rules/) and 
+[guidelines:](https://material.io/design/guidelines-overview)
 
-[Importance of:](https://info.keylimeinteractive.com/10-things-you-need-to-know-about-material-design)
-
-[Rules:](https://www.uxpin.com/studio/blog/material-design-rules/)
-
-[Guidelines:](https://material.io/design/guidelines-overview)
-
-
-# Usage
+# Usage Tips
 Material UI [MUI]
 Updated version MUI5 
 Link: https://mui.com/
