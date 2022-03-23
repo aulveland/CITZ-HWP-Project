@@ -79,9 +79,9 @@ Basically, wrap entire App.js block in a container (as an option)
 &nbsp; </ Card>   
 -	This example also includes imports from CardActionAria, CardContent all from MUI
 
-## Typography
+### Typography
 
-/app/client/src/...
+include /app/client/src/topography.js file
 
 /**
  * Typography
