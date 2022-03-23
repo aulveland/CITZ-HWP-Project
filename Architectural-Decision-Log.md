@@ -100,7 +100,7 @@ Material UI is a easy and simple way to create and standardize components to be 
 [why use material design](https://www.toptal.com/designers/ui/why-use-material-design)
 
 ### HWP Adoption
-[Info page] (https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Material-UI)
+[Implementation Info Page](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Material-UI)
 
 # Database Decision - MongoDB/PostgreSQL
 ### Background
