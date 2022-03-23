@@ -79,7 +79,7 @@ Basically, wrap entire App.js block in a container (as an option)
 &nbsp; </ Card>   
 -	This example also includes imports from CardActionAria, CardContent all from MUI
 
-##Typography
+## Typography
 
 /app/client/src/...
 
@@ -100,5 +100,4 @@ const typography = new Typography({
 });
 
 typography.injectStyles();
-
 export default typography;
