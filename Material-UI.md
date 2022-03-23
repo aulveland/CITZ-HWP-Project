@@ -7,8 +7,8 @@ The HWP project has adopted the use of Material-UI as the UX design framework as
 3) listen to users - solicit feedback, adapt as required
 4) adopt BCSans typography
 
-Follow these [material design rules:](https://www.uxpin.com/studio/blog/material-design-rules/) and 
-[guidelines:](https://material.io/design/guidelines-overview)
+Follow these [material design rules](https://www.uxpin.com/studio/blog/material-design-rules/) and 
+[guidelines](https://material.io/design/guidelines-overview)
 
 # Usage Tips
 Material UI [MUI]
