@@ -99,6 +99,9 @@ Material UI is a easy and simple way to create and standardize components to be 
 [Material Design Pros and Cons](https://www.bootstrapdash.com/why-choose-material-design-pros-cons/)  
 [why use material design](https://www.toptal.com/designers/ui/why-use-material-design)
 
+### HWP Adoption
+[Info page] (https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Material-UI)
+
 # Database Decision - MongoDB/PostgreSQL
 ### Background
 This report compares database providers, MongoDB or PostgreSQL, and we will determine which will be a better fit for our project
