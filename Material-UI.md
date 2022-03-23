@@ -105,4 +105,52 @@ const typography = new Typography({
 });  
   
 typography.injectStyles();  
-export default typography;  
+export default typography; 
+
+### Button
+https://mui.com/components/buttons/ 
+- simple user actions
+- three variants; text, contained, outlined
+- can have onClick actions for handling actions when the button is pressed
+
+- import statement: import Button from '@mui/material/Button';
+- Example of use:  
+ &nbsp; < Button variant="outlined">Primary</ Button>
+
+
+### Custom Color 
+https://mui.com/customization/color/
+- use colours by materialUI in mui components
+- choose shading and color scheme
+- import the main theme colour in then can use any shade in that colour
+- set primary and secondary colours with theme option 
+
+- example in code (including theme)    
+import { createTheme } from '@mui/material/styles';  
+import { purple } from '@mui/material/colors';  
+
+ const theme = createTheme({  
+ &nbsp;  palette: {  
+  &nbsp; &nbsp;   primary: {  
+&nbsp; &nbsp; &nbsp;       main: purple[500],  
+ &nbsp; &nbsp;    },  
+ &nbsp; &nbsp;    secondary: {  
+ &nbsp; &nbsp; &nbsp;      main: '#f44336',  
+ &nbsp; &nbsp;    },  
+&nbsp;   },  
+});  
+
+### Box 
+- acts like a div component (wrapper)
+- can style it using all of mui styles
+- use sx prop to specify any CSS rules you want to apply to the box
+
+- import statement: import Box from '@mui/material/Box';  
+- Example of use:   
+< Box  
+ &nbsp;      sx={{  
+  &nbsp;       width: 300,  
+ &nbsp;        height: 300,  
+  &nbsp;       backgroundColor: 'primary.dark',  
+  &nbsp;     }}  
+    />  
