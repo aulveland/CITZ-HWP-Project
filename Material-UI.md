@@ -23,7 +23,7 @@ https://mui.com/components/grid/
 -	Helps style components in a grid structure. 
 -	12 column spaces (each block can have more than 1 space though)
 -	Adjust spacing between columns
--	Fluid – scale and resize content
+-	Fluid – scale and resize content  
 
 -	Import statement: import Grid from '@mui/material/Grid';
 -	Example: of use  
@@ -38,7 +38,7 @@ https://mui.com/components/grid/
  ### Container
  https://mui.com/components/container/
 -	Wraps code in the center of the webpage 
--	Fluid or fixed.   
+-	Fluid or fixed.    
   
 -	Import statement: import Container from '@mui/material/Container';
 -	Example of use:    
@@ -53,7 +53,7 @@ Basically, wrap entire App.js block in a container (as an option)
 -	Paper like sheet
 -	Bind pages together, resize 
 -	Multiple sheets
--	Basically, acts like a piece of paper
+-	Basically, acts like a piece of paper  
 
 -	Import statement: import Paper from '@mui/material/Paper';
 -	Example of use: 
@@ -65,7 +65,7 @@ Basically, wrap entire App.js block in a container (as an option)
  https://mui.com/components/cards/ 
 -	Similar functionality as paper
 -	Contain content on single topic 
--	Display a hierarchy   
+-	Display a hierarchy     
   
 -	Import Statement: import Card from '@mui/material/Card';
 -	Example of use:   
@@ -80,24 +80,29 @@ Basically, wrap entire App.js block in a container (as an option)
 -	This example also includes imports from CardActionAria, CardContent all from MUI
 
 ### Typography
-
+https://mui.com/components/typography/ 
+- make fonts and sizes easy to apply
+- customize text for your own application  
+  
+- below is an example of the government typography class that contains BS sans font  
+  
 include /app/client/src/topography.js file
 
-/**
- * Typography
- * @author Jason C. Leach from [platform-service-registry](https://github.com/bcgov/platform-services-registry)
- */
-
-import '@bcgov/bc-sans/css/BCSans.css';
-import Typography from 'typography';
-
-const typography = new Typography({
-  baseFontSize: '16px',
-  baseLineHeight: 1.25,
-  headerFontFamily: ['BCSans', 'Noto Sans', 'Verdana', 'Arial', 'sans-serif'],
-  bodyFontFamily: ['BCSans', 'Noto Sans', 'Verdana', 'Arial', 'sans-serif'],
-  scaleRatio: 2.074,
-});
-
-typography.injectStyles();
-export default typography;
+/*  
+&nbsp;  Typography  
+&nbsp;  @author Jason C. Leach from [platform-service-registry](https://github.com/bcgov/platform-services-registry)  
+*/  
+  
+import '@bcgov/bc-sans/css/BCSans.css';  
+import Typography from 'typography';  
+  
+const typography = new Typography({  
+&nbsp;  baseFontSize: '16px',  
+&nbsp;  baseLineHeight: 1.25,  
+&nbsp;  headerFontFamily: ['BCSans', 'Noto Sans', 'Verdana', 'Arial', 'sans-serif'],  
+&nbsp;  bodyFontFamily: ['BCSans', 'Noto Sans', 'Verdana', 'Arial', 'sans-serif'],  
+&nbsp;  scaleRatio: 2.074,  
+});  
+  
+typography.injectStyles();  
+export default typography;  
