@@ -56,3 +56,5 @@ The platform supports a notification facility allowing users to:
      2. set a user-defined interval to receive a digest (default is a 7 day weekly).
 
 Options to be considered to implement this feature includes [gcNotify](https://notification.canada.ca/) or the BCGov [CHES](https://digital.gov.bc.ca/common-components/common-hosted-email-service) common component.
+
+For additional context refer to the [challenges](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Challenges#issue----how-to-trigger-the-update-notification-frequency) page.
