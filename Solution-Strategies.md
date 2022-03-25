@@ -10,6 +10,8 @@ They are based on our **[user research](https://github.com/bcgov/CITZ-HybridWork
 * Search
 * Notify
 
+The users solution 'flow' has been documented [here](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes#flow-diagram).
+
 ## User
 
 A user is a platform member who requires an account, [logs on](https://user-images.githubusercontent.com/82344553/157935583-ab1b70db-121b-41b4-a3fb-575e594b6a00.png) with a valid identity, has a [profile](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes#u1t4---profile), and can customize user preferences (settings). 
