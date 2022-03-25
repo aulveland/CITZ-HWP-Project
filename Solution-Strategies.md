@@ -11,7 +11,7 @@ They are based on pre-identified User Stories. To implement our intended solutio
 
 ## User
 
-A user is a platform member who requires an account, logs on with a valid identity, has a profile, and can customize user preferences (settings). 
+A user is a platform member who requires an account, [logs on](https://user-images.githubusercontent.com/82344553/157935583-ab1b70db-121b-41b4-a3fb-575e594b6a00.png) with a valid identity, has a profile, and can customize user preferences (settings). 
 A user can join or leave a community. A user can create a topic (ie: a Post). Users can also comment on posts from other community members.  A user can flag a post or comment if they feel it is controversial.
 
 ## Community 
