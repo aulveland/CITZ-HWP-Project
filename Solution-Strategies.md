@@ -45,10 +45,10 @@ Search returns results in the Search Screen.
 The platform supports a notification facility allowing users to: 
 * set a notify on/off option indicating that they wish to monitor a community for updates.
 * a user has three options: 
-* *  1. turn notification on/off
-* * *      a. off = default 
-* * *      b. on = a user will receive either a weekly or immediate update
-* *  2. set a user-defined interval to receive a digest (default is a 7 day weekly).
+     1. turn notification on/off
+           a. off = default 
+           b. on = a user will receive either a weekly or immediate update
+     2. set a user-defined interval to receive a digest (default is a 7 day weekly).
 
 Options to be considered to implement this feature includes gcNotify or the BCGov 'CHES' common component.
 
