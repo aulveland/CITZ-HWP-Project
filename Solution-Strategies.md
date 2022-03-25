@@ -39,3 +39,4 @@ The platform includes a search facility allows users to:
 
 Search returns results in the Search Screen.
 
+The solution 'flow' has been documented [here](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes#flow-diagram).
