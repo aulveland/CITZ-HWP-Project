@@ -12,10 +12,10 @@ Welcome to the CITZ-HybridWorkplace wiki!
         + **SCRUM Master:** Meghan Peebles
         + **Product Sponsor:** Craig Shutko
         + **Project Stakeholders:** RISE members, leadership candidates
-        + [Project Decision Log](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log)
         + **Front Dev Team:** Abby & Jayna
         + **Back Dev Team:** Jayna
         + **Dev Ops:** Poornima Sivanand & Team
+- [Project Decision Log](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log)
 - [ ] Solution Architecture
     - [ ] [Solution Strategies](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Solution-Strategies)
     - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
