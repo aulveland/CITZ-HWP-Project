@@ -39,4 +39,6 @@ The platform includes a search facility allows users to:
 
 Search returns results in the Search Screen.
 
+## Features
+
 Features are described on the [Actions and Roles](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/7.Security) page.
