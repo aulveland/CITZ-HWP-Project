@@ -1,5 +1,5 @@
-# Openshift Deployment
-Follow the 2021 capstone groups deployment to the BC Governments PaaS platform based on RHEL OpenShift strategy.  
+# OpenShift Deployment
+Follow the 2021 Capstone groups' deployment to the BC Governments PaaS platform based on RHEL OpenShift strategy.  
 [How to Build and Deploy on Openshift](https://github.com/bcgov/citz-dst-capstone-2021/tree/main/openshift)
 
 
