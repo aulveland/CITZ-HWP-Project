@@ -25,6 +25,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] [Architectural Decision Log](https://github.com/bcgov/citz-HybridWorkplace/wiki/Architectural-Decision-Log)
 - [ ] [User Processes](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Processes)
 - [ ] Solution Architecture
+    - [] [Solution Strategies] (https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Solution-Strategies)
     - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
 
     - [ ] TODO: [Front-end Dependencies]
