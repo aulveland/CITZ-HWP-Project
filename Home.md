@@ -17,7 +17,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
         + **Dev Ops:** Poornima Sivanand & Team
 - [Project Decision Log](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log)
 - [ ] Solution Architecture
-    - [ ] [Solution Strategies](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Solution-Strategies)
+    - [ ] [Solution Strategies](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Solution-Strategies) [*](https://docs.arc42.org/section-4/)
     - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
        
 - [ ] Design & Architecture
