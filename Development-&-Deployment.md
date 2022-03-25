@@ -45,4 +45,4 @@ To debug redux, a google chrome extension has been added to the store.js file. T
 # Other Deployment
 ### Netlify *Blocked* 
   
-To deploy to Netlify we would either need to deploy to Heroku for the backend or add new library and code implementation. For our project scope, this is too complicated and will take too much time away from our development build so this step is currently blocked. 
+To deploy to Netlify we would either need to deploy to Heroku for the backend or add new library and code implementation. For our project scope, this is too complicated and will take too much time away from our development build so this step is currently blocked. Few [articles](https://stephencook.dev/blog/netlify-mongodb/) are available to describe this process.
