@@ -23,7 +23,7 @@ A community is a collection of users who share a common interest and can post to
 
 A community-moderator is a community member who has been approved by the (system-)Administrator and can add/remove users to a community.
 
-The community moderator features are displayed in the Moderator page.
+The community moderator features are displayed on the [Moderator](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/moderatorPanel.png) page.
 
 ## Admin
 
