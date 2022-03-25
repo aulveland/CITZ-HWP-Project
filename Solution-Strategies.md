@@ -1,7 +1,7 @@
 # Strategies 
 
 Strategies are narratives that describe solution concepts of how specific **[Journeys](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/5.User-Journeys)** translate into **[features](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/7.Security)** as part of our solution design. 
-They are based on **[user research](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/3.User-Research)**. To implement our intended solution the HWP team has identified six feature groupings that require strategies to be documented.
+They are based on our **[user research](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/3.User-Research)**. To implement our intended solution the HWP team has identified six feature groupings that require strategies to be documented.
 
 * User
 * Community
