@@ -37,6 +37,6 @@ The platform includes a search facility allows users to:
 * search all posts and comments based on key-word matches, if the user is not a member of the community that is matched they will have the ability to join the community
 * search for user names within a community they are a member of [limited to that scope]
 
-Search returns a Search Screen.
+Search returns results in the Search Screen.
 
 
