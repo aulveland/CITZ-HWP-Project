@@ -14,7 +14,7 @@ They are based on our **[user research](https://github.com/bcgov/CITZ-HybridWork
 
 A user is a platform member who requires an account, [logs on](https://user-images.githubusercontent.com/82344553/157935583-ab1b70db-121b-41b4-a3fb-575e594b6a00.png) with a valid identity, has a [profile](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes#u1t4---profile), and can customize user preferences (settings). 
 A user can join or leave a community. A user can create a topic (ie: a Post). Users can also comment on posts from other community members.  A user can flag a post or comment if they feel it is controversial. When a user logs into 'The neighbourhood' they will initially be a member of the 'welcome' community. Their "homepage" (also referred to as their 'dashboard') will display a 'header' region that contains the BC Government branding, a 'search' bar (see description below). Their profile avatar/icon and a menu icon. below the 'header' their screen is divided into two regions.
-![ users screen](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes#u1t3---home) 
+![users screen](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes#u1t3---home) 
 On the right is a list of communities they have joined, while on the left is a list of all the postings they are subscribed to see and comment on.
 
 ## Community 
