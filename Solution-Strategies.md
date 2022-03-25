@@ -1,13 +1,14 @@
 # Strategies 
 
 Strategies are narratives that describe solution concepts of how specific **[Journeys](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/5.User-Journeys)** translate into **[features](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/7.Security)** as part of our solution design. 
-They are based on **[user research](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/3.User-Research)**. To implement our intended solution the HWP team has identified five feature groupings that require strategies to be documented.
+They are based on **[user research](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/3.User-Research)**. To implement our intended solution the HWP team has identified six feature groupings that require strategies to be documented.
 
 * User
 * Community
 * Moderator
 * Admin
 * Search
+* Notify
 
 ## User
 
@@ -38,5 +39,18 @@ The platform includes a search facility allows users to:
 * search for user names within a community they are a member of [limited to that scope]
 
 Search returns results in the Search Screen.
+
+## Notify
+
+The platform supports a notification facility allowing users to: 
+* set a notify on/off option indicating that they wish to monitor a community for updates.
+* a user has three options: 
+* *  1. turn notification on/off
+* *     a. off = default 
+* *     b. on = a user will receive either a weekly or immediate update
+* *  2. set a user-defined interval to receive a digest (default is a 7 day weekly).
+
+Options to be considered to implement this feature includes gcNotify or the BCGov 'CHES' common component.
+
 
 The solution 'flow' has been documented [here](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/9.Wireframes#flow-diagram).
