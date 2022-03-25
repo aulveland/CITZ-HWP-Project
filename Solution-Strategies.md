@@ -29,7 +29,7 @@ The community moderator features are displayed in the Moderator page.
 A (system-)Administrator is a 'super'-user role who has the ability to add/remove users, promote [and remove] users to the community moderators role. 
 An Administrator can adjudicate 'flagged' users and posts (ie: activate or remove a 'flagged' user or post. 
 
-The Admin features are displayed by the Admin page.
+The Admin features are displayed by the [Admin](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/AdminPanel.png) page.
 
 ## Search
 
