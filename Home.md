@@ -2,6 +2,8 @@ Welcome to the CITZ-HybridWorkplace wiki!
 # Content
 
 - [X] Introduction
+
+  The HWP team was formed in 2022 to design, develop and launch a collaboration platform for internal to government communities. The solution that was developed is called 'The Neighbourhood'.
     - [X] [Problem Opportunity Statement](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/2.Problem-Opportunity-Statement)
 - [X] People
 	- **Project Sponsor:** BC Government OCIO ES - Information Management Branch
