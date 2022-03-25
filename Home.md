@@ -14,6 +14,9 @@ Welcome to the CITZ-HybridWorkplace wiki!
         + **Front Dev Team:** Abby & Jayna
         + **Back Dev Team:** Jayna
         + **Dev Ops:** Poornima Sivanand & Team
+- [ ] Solution Architecture
+    - [ ] [Solution Strategies](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Solution-Strategies)
+    - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
        
 - [ ] Design & Architecture
     - [ ] [User Engagement](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/3.User-Research)
@@ -24,26 +27,23 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] [Data Model]
     - [ ] [Architectural Decision Log](https://github.com/bcgov/citz-HybridWorkplace/wiki/Architectural-Decision-Log)
 - [ ] [User Processes](https://github.com/bcgov/citz-HybridWorkplace/wiki/User-Processes)
-- [ ] Solution Architecture
-    - [ ] [Solution Strategies](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Solution-Strategies)
-    - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
-
-    - [ ] TODO: [Front-end Dependencies]
-    - [ ] TODO: [API Server Dependencies]
-    - [ ] TODO: [APIs]
-    - [ ] TODO: [Installation]
-    - [ ] TODO: [Deployment]
-    - [ ] TODO: [MongoDB Backup and Restore](https://github.com/bcgov/citz-HybridWorkplace/wiki/RDSI-Database-on-MongoDB)
-    - [ ] TODO: [Style Guides](https://github.com/bcgov/citz-dst-capstone-2021/blob/main/app/docs/style-guides.md)
+- [ ] TODO:
+    - [ ]  [Front-end Dependencies]
+    - [ ] [API Server Dependencies]
+    - [ ] [APIs]
+    - [ ] [Installation]
+    - [ ] [Deployment]
+    - [ ] [MongoDB Backup and Restore](https://github.com/bcgov/citz-HybridWorkplace/wiki/RDSI-Database-on-MongoDB)
+    - [ ] [Style Guides](https://github.com/bcgov/citz-dst-capstone-2021/blob/main/app/docs/style-guides.md)
     - [ ] [Code Review Checklist](https://gist.github.com/bigsergey/aef64f68c22b3107ccbc439025ebba12)
     - [ ] [Code Review Checklist Guidelines](https://www.jondjones.com/frontend/react/react-tutorials/react-coding-standards-and-practices-to-level-up-your-code/)
-    - [ ] TODO: [Project Portfolio]
-    - [ ] TODO: [Project Charter]
+    - [ ] [Project Portfolio]
+    - [ ] [Project Charter]
     - [ ] [Status Report]
     - [ ] [Products Requirement Document]
     - [ ] [Final Report]
     - [ ] [Final Presentation Slides]
-    - [ ]  [Weekly Status Reports]
+    - [ ] [Weekly Status Reports]
     - [ ] [Meeting Notes]
 - [ ] [Recommendations/Lessons Learned]
 
