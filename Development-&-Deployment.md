@@ -2,6 +2,9 @@
 Follow the 2021 Capstone groups' deployment to the BC Governments PaaS platform based on RHEL OpenShift strategy.  
 [How to Build and Deploy on Openshift](https://github.com/bcgov/citz-dst-capstone-2021/tree/main/openshift). Refer to the [challenges](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Challenges#issue----how-to-learn-and-onboard-to-the-bcgov-paas-openshift-platform) page for more info.
 
+## OpenShift Provisioning
+Follow the request steps on the  BCDevExchange lab web site [here](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-Request-a-New-OpenShift-Project)
+
 
 # Local Deployment
 
