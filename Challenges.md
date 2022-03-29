@@ -38,3 +38,4 @@ Currently in our solution we have a user sign on page that asks users for their 
 *  [developer.bcgov resources](https://developer.gov.bc.ca/Authentication-and-Authorization/Request-SSO-Client-Creation)
 *  [Realm-o-matic](https://github.com/bcgov/realm-o-matic)
 *  [Vue Scaffolding example](https://github.com/bcgov/vue-scaffold)
+*  [JAG File Submission project](https://github.com/bcgov/jag-file-submission)
