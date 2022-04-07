@@ -2,7 +2,7 @@
 - [Agile vs Waterfall](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#1--agile-vs-waterfall-project-management)
 - [Human-centered Design vs Requirements Based Design](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#2human-centered-design-vs-requirements-based-design----httpsenwikipediaorgwikirequirements_engineering-)
 - [Material UI](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#3--material-ui)
-- [Tooling (AdobeXD vs Figma](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#4--tooling-adobe-xd-vs-figma)
+- [Tooling (AdobeXD vs Figma)](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#4--tooling-adobe-xd-vs-figma)
 
 In an era where applications and solutions are required to come to the market with very tight timelines it is no longer possible to rely on developing for “perfection”, instead, solutions are often launched that are designed to meet initial user needs and if the product is adopted/accepted by users/clients/customers the product can be iterated and improved as long as it is valued.
 
