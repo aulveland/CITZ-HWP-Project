@@ -8,14 +8,7 @@ In an era where applications and solutions are required to come to the market wi
 
 Traditional models such as ‘waterfall’ which often would run over multi-year project plans are no longer desirable. Instead taking an Agile approach will deliver a client-focused product sooner or it will end work in a product that is not required/desired before a lot of resources are invested.
 
-### Understanding the strengths weaknesses of Agile vs Waterfall when managing a new product development project.
-
-Scrum etc 
-
-When developing the actual product a traditional approach often empowered a small group of people to make critical decisions about how a product would work. A lot of effort would then be put into creating a prototype usually followed by user testing and eventual product launch or abandonment. This was a costly and often frustrating approach. The alternative is to take a Human-Centered Design approach…..
-
-1)	Project Management
-2)	Requirements Gathering
+When developing the actual product a traditional approach often empowered a small group of people to make critical decisions about how a product would work. A lot of effort would then be put into creating a prototype usually followed by user testing and eventual product launch or abandonment. This was a costly and often frustrating approach. The alternative is to take a Human-Centered Design approach.
 
 ## 1)  Agile vs Waterfall (Project Management)
 ### Background  
