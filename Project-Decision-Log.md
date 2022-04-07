@@ -6,9 +6,6 @@
 
 In an era where applications and solutions are required to come to the market with very tight timelines it is no longer possible to rely on developing for “perfection”, instead, solutions are often launched that are designed to meet initial user needs and if the product is adopted/accepted by users/clients/customers the product can be iterated and improved as long as it is valued.
 
-The consumerization of information technology has led to an app driven world where every product now has a digital component. These products are released to the market in marketplaces known as app stores or on websites. Where in the past an army of sales and marketing staff would develop sales strategies to raise awareness today's products are advertised and sold using multiple channels and often supported by social media campaigns.  Funding these products is often through start-up backers with initial seed money. If a product establishes itself then can be improved or launch an associated product or service.
-
-Taking a platform approach is similar to creating a business model which relies on composable services exposed as APIs.
 Traditional models such as ‘waterfall’ which often would run over multi-year project plans are no longer desirable. Instead taking an Agile approach will deliver a client-focused product sooner or it will end work in a product that is not required/desired before a lot of resources are invested.
 
 ### Understanding the strengths weaknesses of Agile vs Waterfall when managing a new product development project.
