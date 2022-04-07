@@ -1,5 +1,3 @@
-# Project Decision Log
-
 ## Table of Contents  
 - [Agile vs Waterfall](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#1--agile-vs-waterfall-project-management)
 - [Human-centered Design vs Requirements Based Design](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#2human-centered-design-vs-requirements-based-design----httpsenwikipediaorgwikirequirements_engineering-)
