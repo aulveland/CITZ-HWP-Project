@@ -42,32 +42,34 @@ We chose to follow agile practices for this project because we value the flexibi
 https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/#:~:text=The%20main%20difference%20is%20that,different%20phases%20of%20the%20project.
 
 ## 2)	Human-Centered Design vs Requirements Based Design
-
 ### Background  
-
+Human centered design defined by IDEO: a creative approach to problem-solving that starts with people and ends with innovative solutions that are tailor-made to suit their needs. With requirement based design there is no regard to the fact people will use the system, it only matters that the functional requirements are met.  
 ### Human-Centered Design Pros and Cons
 #### Pros
-
+-more effective, safer projects  
+-users feel sense of ownership in products  
+-more assistance in users expectations of products  
 #### Cons
-
-### Requirements Based Design Pros and Cons
+-user centered is expensive  
+-difficult to translate certain types of data into design  
+-user research is timely so product can take more time  
+-item may be too complicated and specific for public use leading to becoming more expensive  
+### Requirements Based Design Pros and Cons  
 #### Pros
-
+-Design is based on the systems needs, system will be functional and reliable  
+-less time and money spent on research  
 #### Cons
-
+-little regard that people will use the system  
+-users might not be as happy with product or have usage issues  
 ### Comparison
-
+Human-Centered is for the user while Design is based on the system. The use of each is dependent on the purpose of what you are creating. The majority of the time the general users will be people, making human-centered design more desirable.
 ### Conclusion
-
+We chose human-centered design because our product will be used by general government employees and we want them to have the best user experience possible.
 ### Sources
 https://medium.com/@zainabnasir.23/how-to-create-an-application-the-traditional-method-or-1-click-method-2ef8f5d38f6c
 https://acuity-design.medium.com/designer-centered-design-c3637d56a50e
 https://ux.stackexchange.com/questions/105392/what-is-opposite-of-human-centred-design
 https://www.usertesting.com/blog/how-ideo-uses-customer-insights-to-design-innovative-products-users-love
-
-which leads to:
-
-https://www.ibm.com/cloud/blog/four-architecture-choices-for-application-development
 
 ## 3)  Material UI
 Material design is a set of style guidelines. Rule set to handle design situations. 
