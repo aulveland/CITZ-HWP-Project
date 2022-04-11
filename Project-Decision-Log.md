@@ -39,8 +39,8 @@ Budget - waterfall has a fixed budget while agile is open to adaptation with a f
 ### Conclusion
 We chose to follow agile practices for this project because we value the flexibility it provides in both timeline and the direction the project goes in. The influence of client involvement in agile is also highly valued.  
 ### Sources
-https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/#:~:text=The%20main%20difference%20is%20that,different%20phases%20of%20the%20project.
-[Waterfall Model (Wikipedia)](https://en.wikipedia.org/wiki/Waterfall_model)
+1. [Agile vs Waterfall](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/#:~:text=The%20main%20difference%20is%20that,different%20phases%20of%20the%20project.)
+2. [Waterfall Model (Wikipedia)](https://en.wikipedia.org/wiki/Waterfall_model)
 
 ## 2)	Human-Centered Design vs Requirements Based Design
 ### Background  
