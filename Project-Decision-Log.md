@@ -43,7 +43,7 @@ https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/#:~:text=
 
 ## 2)	Human-Centered Design vs Requirements Based Design
 ### Background  
-Human centered design defined by IDEO: a creative approach to problem-solving that starts with people and ends with innovative solutions that are tailor-made to suit their needs. With requirement based design there is no regard to the fact people will use the system, it only matters that the functional requirements are met.  
+Human centered design defined by [IDEO](https://www.usertesting.com/blog/how-ideo-uses-customer-insights-to-design-innovative-products-users-love): a creative approach to problem-solving that starts with people and ends with innovative solutions that are tailor-made to suit their needs. With requirement based design there is no regard to the fact people will use the system, it only matters that the functional requirements are met.  
 ### Human-Centered Design Pros and Cons
 #### Pros
 -more effective, safer projects  
