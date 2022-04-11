@@ -58,5 +58,33 @@ const model = mongoose.model('UserData', User)
  
  const model = mongoose.model('CommunityData', Community)
 
+## Posting
+
+ const Post = new mongoose.Schema(
+
+     {
+
+         title: { type: String, required: true},
+
+         message: { type: String},
+
+         creator: { type: String},
+
+         community: { 
+
+             type: mongoose.Schema.Types.ObjectId,
+
+            ref: 'Community'
+
+            },
+     },
+
+     { collection: 'post-data' }
+
+ )
+
+ 
+ const model = mongoose.model('PostData', Post)
+
 
 [data modeling ](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/#:~:text=MongoDB%20documents%20make%20it%20possible,denormalized%20data%20model%20is%20optimal.).
