@@ -73,6 +73,7 @@ https://ux.stackexchange.com/questions/105392/what-is-opposite-of-human-centred-
 https://www.usertesting.com/blog/how-ideo-uses-customer-insights-to-design-innovative-products-users-love
 
 ## 3)  Material UI
+### Background 
 Material design is a set of style guidelines. Rule set to handle design situations. 
 ### Pros
 -	Smooth UI transitions and animations between elements (can be used for movement on screen or highlighting buttons ect…)
