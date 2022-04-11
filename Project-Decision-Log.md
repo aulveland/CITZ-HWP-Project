@@ -1,5 +1,5 @@
 ## Table of Contents  
-- [Agile vs Waterfall](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#1--agile-vs-waterfall-project-management)
+- [Agile vs Waterfall](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log#1--agile-vs-waterfall-project-management)
 - [Human-Centered Design vs Requirements Based Design](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#2human-centered-design-vs-requirements-based-design----httpsenwikipediaorgwikirequirements_engineering-)
 - [Material UI](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#3--material-ui)
 - [Tooling (Adobe XD vs Figma)](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log/_edit#4--tooling-adobe-xd-vs-figma)
