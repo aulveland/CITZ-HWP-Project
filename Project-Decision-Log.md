@@ -98,20 +98,31 @@ Material UI is an easy and simple way to create and standardize components to be
 
 ## 4)  Tooling (Adobe XD vs Figma)
 ### Background 
- 
+Figma and Adobe XD are vector editing tools for UX/UI designers.  
 ### Adobe XD Pros and Cons
 #### Pros
-
+-screen sharing abilities  
+-easy for users to learn and interact with  
+-design tool  
+-many exporting options  
+-works on mobile app platforms  
 #### Cons
-
-### Figma Pros and Cons
+-download and purchase plan  
+-less language options (ex: English)  
+-compatible with less operating systems  
+### Figma Pros and Cons  
 #### Pros
-
+-no installation (just website)  
+-screen sharing abilities  
+-prototyping tool  
+-software in many different languages (ex: English)  
+-compatible with more operating systems  
 #### Cons
-
+-does not work on mobile app platforms  
+-less exporting options  
 ### Comparison
-
+Figma and Adobe XD are similar and have many of the same qualities, the main differences being Figma’s language choices and operating system compatibility and Adobe XD’s user friendly platform and working on mobile apps.  
 ### Conclusion
-
+Our team chose Adobe XD because it is easier to learn and use, and for a short 4 month project there was not much time to become familiar with the tool. The exporting options and screen sharing abilities were pros. Many of the Figma pros were not as important to our project.  
 ### Sources
 https://www.uxmatters.com/mt/archives/2020/05/review-figma-versus-adobe-xd-part-1.php
