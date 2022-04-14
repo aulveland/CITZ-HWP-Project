@@ -40,7 +40,7 @@ Welcome to the CITZ-HybridWorkplace wiki!
     - [ ] [Code Review Checklist](https://gist.github.com/bigsergey/aef64f68c22b3107ccbc439025ebba12)
     - [ ] [Code Review Checklist Guidelines](https://www.jondjones.com/frontend/react/react-tutorials/react-coding-standards-and-practices-to-level-up-your-code/)
     - [ ] [Project Portfolio]
-    - [ ] [Project Charter]
+    - [X] [Project Charter (draft)](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP%20Project%20Charter%20-%20draft.docx)
     - [ ] [Status Report]
     - [ ] [Products Requirement Document]
     - [ ] [Final Report]
