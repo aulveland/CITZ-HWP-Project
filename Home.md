@@ -15,7 +15,9 @@ Welcome to the CITZ-HybridWorkplace wiki!
         + **Front Dev Team:** Abby & Jayna
         + **Back Dev Team:** Jayna
         + **Dev Ops:** Poornima Sivanand & Team
+
 - [Project Decision Log](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Project-Decision-Log)
+    -[X] [Product RoadMap]![](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/ProductRoadmap.png)
 - [ ] Solution Architecture
     - [ ] [Solution Strategies](https://github.com/bcgov/CITZ-HybridWorkplace/wiki/Solution-Strategies) [*](https://docs.arc42.org/section-4/)
     - [X] [Application Architecture](https://github.com/bcgov/CITZ-HybridWorkplace/blob/main/docs/HWP-Application-Architecture-v1.jpg)
