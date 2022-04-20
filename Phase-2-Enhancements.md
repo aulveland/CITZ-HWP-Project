@@ -22,14 +22,22 @@
 5.2.2 Digest emails
 
 ### 5.3 Community
-5.3.1 Review
-5.3.2 Enhancements
-5.3.2.1 Posting to Community (drop down list)
-5.3.3 Additions
-5.3.3.1 Posting/ Comments
-5.3.3.1.1 Add
-5.3.3.1.2 Flag
-5.3.3.1.3 Voting 
+.1 Review
+.2 Enhancements
+.2.1 Posting to Community (drop down list)
+.3 Additions
+.3.1 Posting/ Comments
+.3.1.1 Add
+.3.1.2 Flag
+.3.1.3 Voting 
+
+.3.1.2 Enhancements
+.3.1.2.1 Posting to Community (drop down list)
+.3.1.3 Additions
+.3.1.4 Posting/ Comments
+.3.1.4.1 Add
+.3.3.4.2 Flag
+.3.3.4.3 Voting 
 
 ### 5.4 Moderator
 5.3.1 flagging users, flagging posts
