@@ -40,11 +40,11 @@
 .3.3.4.3 Voting 
 
 ### 5.4 Moderator
-5.3.1 flagging users, flagging posts
-5.4 Search
-5.4.1 Users
-5.4.2 Communities
-5.4.3 Posts/Comments
+1. Flagging Users, flagging Posts
+2. Search
+2.1. Users
+2.2. Communities
+2.3. Posts/Comments
 
 ### 5.5 Administration
 5.5.1 Flagging/Unflagging
