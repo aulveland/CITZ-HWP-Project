@@ -8,7 +8,7 @@ Follow the request steps on the  BCDevExchange lab website [here](https://develo
 
 # Local Deployment
 
-1. Before running this code make sure to [clone](https://github.com/bcgov/CITZ-HybridWorkplace/fork)the latest version of this repository to your local machine. 
+1. Before running this code make sure to [clone](https://github.com/bcgov/CITZ-HybridWorkplace/fork) the latest version of this repository to your local machine. 
 2. Clone the main branch to the local computer using git clone (you may need to download git to your computer for this to work).  
 3. Make sure you have at least 500 MB to install.
 4. Install [Node. JS](https://nodejs.org/en/) onto the local computer.
