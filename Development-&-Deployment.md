@@ -9,7 +9,12 @@ Follow the request steps on the  BCDevExchange lab web site [here](https://devel
 # Local Deployment
 
 Before running this code make sure to clone the latest version of this repository to your local machine. 
-Clone the main branch to local computer using git clone (you may need to download git to your computer for this to work. )
+Clone the main branch to local computer using git clone (you may need to download git to your computer for this to work. )  
+
+First Install NodeJS on local computer https://nodejs.org/en/  
+Then install mondoDB onto local computer https://www.mongodb.com/try/download/community  
+once both are installed, you can start the steps to install. 
+
 ### Backend
 once in the CITZ-HybridWorkplace repository cloned on your local machine, navigate to the server directory in your terminal.  
   
