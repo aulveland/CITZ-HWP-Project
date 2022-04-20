@@ -10,7 +10,7 @@ Follow the request steps on the  BCDevExchange lab web site [here](https://devel
 
 Before running this code make sure to clone the latest version of this repository to your local machine. 
 Clone the main branch to local computer using git clone (you may need to download git to your computer for this to work. )  
-
+Make sure you have at least 500 mb to install
 First Install NodeJS on local computer https://nodejs.org/en/  
 Then install mondoDB onto local computer https://www.mongodb.com/try/download/community  
 once both are installed, you can start the steps to install. 
@@ -26,7 +26,7 @@ Install all the server side dependencies
   
 Wait for the dependencies to install then start the server.  
   
-`nodemon index.js` 
+`node index.js` 
   
 
   
@@ -47,9 +47,10 @@ Start running the client end
   
 Open up a **Chrome** Browser to [http://localhost:3000/](http://localhost:3000/ )  
 The website should now be running on this port.  
-To debug redux, a google chrome extension has been added to the store.js file. To run on browsers that aren't google chrome, comment out line 36 of the store.js file.
-  
-
+To debug redux, a google chrome extension has been added to the store.js file. To run on browsers that aren't google chrome, comment out line 36 of the store.js file.  
+   
+Then set up a branch for your changes   
+git checkout  
 # Other Deployment
 ### Netlify *Blocked* 
   
