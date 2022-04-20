@@ -8,15 +8,15 @@ Follow the request steps on the  BCDevExchange lab web site [here](https://devel
 
 # Local Deployment
 
-Before running this code make sure to clone the latest version of this repository to your local machine. 
-Clone the main branch to local computer using git clone (you may need to download git to your computer for this to work. )  
-Make sure you have at least 500 mb to install
-First Install NodeJS on local computer https://nodejs.org/en/  
-Then install mondoDB onto local computer https://www.mongodb.com/try/download/community  
-once both are installed, you can start the steps to install. 
+1. Before running this code make sure to clone the latest version of this repository to your local machine. 
+2. Clone the main branch to the local computer using git clone (you may need to download git to your computer for this to work. )  
+3. Make sure you have at least 500 MB to install
+4. Install [Node.JS](https://nodejs.org/en/) onto the local computer
+5. Install [MongoDB](https://www.mongodb.com/try/download/community ) onto local computer  
+6. Once both are installed, you can start the steps to install. 
 
 ### Backend
-once in the CITZ-HybridWorkplace repository cloned on your local machine, navigate to the server directory in your terminal.  
+Once in the CITZ-HybridWorkplace repository cloned on your local machine, navigate to the server directory in your terminal.  
   
 `cd app/server`  
   
@@ -51,7 +51,4 @@ To debug redux, a google chrome extension has been added to the store.js file. T
    
 Then set up a branch for your changes   
 git checkout  
-# Other Deployment
-### Netlify *Blocked* 
-  
-To deploy to Netlify we would either need to deploy to Heroku for the backend or add new library and code implementation. For our project scope, this is too complicated and will take too much time away from our development build so this step is currently blocked. Few [articles](https://stephencook.dev/blog/netlify-mongodb/) are available to describe this process.
+
