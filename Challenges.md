@@ -37,5 +37,6 @@ Currently in our solution we have a user sign on page that asks users for their 
 ### investigate these links and topics
 *  [developer.bcgov resources](https://developer.gov.bc.ca/Authentication-and-Authorization/Request-SSO-Client-Creation)
 *  [Realm-o-matic](https://github.com/bcgov/realm-o-matic)
+*  [Keycloak] (https://scalac.io/blog/user-authentication-keycloak-1/)
 *  [Vue Scaffolding example](https://github.com/bcgov/vue-scaffold)
 *  [JAG File Submission project](https://github.com/bcgov/jag-file-submission)
