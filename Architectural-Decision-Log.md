@@ -211,4 +211,4 @@ Redux is a hard to learn and understand tool that requires a lot of boiler plate
 
 ### Documentation
 
-[tips] (https://github.com/kkk987/mern-documentation)
+[tips](https://github.com/kkk987/mern-documentation)
