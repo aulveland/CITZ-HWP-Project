@@ -68,10 +68,10 @@ Human-Centered is for the user while Design is based on the system. The use of e
 ### Conclusion
 We chose human-centered design because our product will be used by general government employees and we want them to have the best user experience possible.
 ### Sources
-https://medium.com/@zainabnasir.23/how-to-create-an-application-the-traditional-method-or-1-click-method-2ef8f5d38f6c
-https://acuity-design.medium.com/designer-centered-design-c3637d56a50e
-https://ux.stackexchange.com/questions/105392/what-is-opposite-of-human-centred-design
-https://www.usertesting.com/blog/how-ideo-uses-customer-insights-to-design-innovative-products-users-love
+https://medium.com/@zainabnasir.23/how-to-create-an-application-the-traditional-method-or-1-click-method-2ef8f5d38f6c  
+https://acuity-design.medium.com/designer-centered-design-c3637d56a50e  
+https://ux.stackexchange.com/questions/105392/what-is-opposite-of-human-centred-design  
+https://www.usertesting.com/blog/how-ideo-uses-customer-insights-to-design-innovative-products-users-love  
 
 ## 3)  Material UI
 ### Background 
